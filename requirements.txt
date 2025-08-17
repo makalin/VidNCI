@@ -1,0 +1,31 @@
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+opencv-python>=4.5.0
+pillow>=8.3.0
+scikit-image>=0.18.0
+matplotlib>=3.4.0
+
+# Video processing
+pyav>=9.0.0
+ffmpeg-python>=0.2.0
+
+# Optional: Cython for performance optimization
+cython>=0.29.0
+
+# Optional: Machine learning and AI
+# Uncomment the following lines if you need AI capabilities
+# torch>=1.9.0
+# tensorflow>=2.6.0
+# scikit-learn>=1.0.0
+
+# Development dependencies (install with: pip install -e .[dev])
+# pytest>=6.0.0
+# pytest-cov>=2.0.0
+# pytest-mock>=3.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.800
+# pre-commit>=2.0.0
+# sphinx>=4.0.0
+# sphinx-rtd-theme>=1.0.0
